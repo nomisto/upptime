@@ -11,6 +11,9 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: stitch
+    url: http://stitch.embl.de/download/actions.v5.0/9606.actions.v5.0.tsv.gz
+    method: HEAD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
