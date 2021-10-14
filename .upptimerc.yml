@@ -5,13 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-    method: HEAD
   - name: Wikipedia
     url: https://en.wikipedia.org
-    method: HEAD
   - name: Hacker News
     url: https://news.ycombinator.com
-    method: HEAD
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: stitch
