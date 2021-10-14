@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedtexist.koj.co
+    url: https://thissitetexist.koj.co
   - name: stitch
     url: http://stitch.embl.de/download/actions.v5.0/9606.actions.v5.0.tsv.gz
     method: HEAD
