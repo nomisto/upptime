@@ -3,17 +3,75 @@ owner: nomisto # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitetexist.koj.co
-  - name: stitchh
-    url: http://stitch.embl.de/download/actions.v5.0/9606.actions.v5.0.tsv.gz
+  - name: DOID
     method: HEAD
+    url: https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/main/src/ontology/doid.obo
+  - name: GO ontology
+    method: HEAD
+    url: http://purl.obolibrary.org/obo/go/go-basic.obo
+  - name: HP
+    method: HEAD
+    url: https://raw.githubusercontent.com/obophenotype/human-phenotype-ontology/master/hp.obo
+  - name: UBERON
+    method: HEAD
+    url: http://ontologies.berkeleybop.org/uberon/ext.obo
+  - name: Disgenet mapping
+    method: HEAD
+    url: http://www.disgenet.org/static/disgenet_ap1/files/downloads/disease_mappings.tsv.gz
+  - name: STRING mapping
+    method: HEAD
+    url: http://string-db.org/mapping_files/entrez/human.entrez_2_string.2018.tsv.gz
+  - name: Uniprot
+    method: HEAD
+    url: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping_selected.tab.gz
+  - name: Bgee diffexpr
+    method: HEAD
+    url: ftp://ftp.bgee.org/bgee_v13/download/calls/diff_expr_calls/Homo_sapiens_diffexpr-anatomy-simple.tsv.zip
+  - name: Bgee expr
+    method: HEAD
+    url: ftp://ftp.bgee.org/current/download/calls/expr_calls/Homo_sapiens_expr_simple.tsv.gz
+  - name: CTD
+    method: HEAD
+    url: http://ctdbase.org/reports/CTD_genes_pathways.tsv.gz
+  - name: Disgenet 
+    method: HEAD
+    url: http://www.disgenet.org/static/disgenet_ap1/files/downloads/curated_gene_disease_associations.tsv.gz
+  - name: Drugcentral
+    method: HEAD
+    url: http://unmtid-shinyapps.net/download/drugcentral.dump.08262018.sql.gz
+  - name: GO annotations
+    method: HEAD
+    url: http://geneontology.org/gene-associations/goa_human.gaf.gz
+  - name: HPA (unused)
+    method: HEAD
+    url: https://www.proteinatlas.org/download/rna_tissue.tsv.zip
+  - name: HPO Disease - Phenotype
+    method: HEAD
+    url: http://purl.obolibrary.org/obo/hp/hpoa/phenotype_annotation.tab
+  - name: HPO Disease - Phenotype (negative)
+    method: HEAD
+    url: http://purl.obolibrary.org/obo/hp/hpoa/phenotype_annotation_negated.tab
+  - name: HPO Disease - Gene
+    method: HEAD
+    url: http://purl.obolibrary.org/obo/hp/hpoa/genes_to_phenotype.txt
+  - name: SIDER Indications
+    method: HEAD
+    url: http://sideeffects.embl.de/media/download/meddra_all_indications.tsv.gz
+  - name: SIDER Side effects
+    method: HEAD
+    url: http://sideeffects.embl.de/media/download/meddra_all_se.tsv.gz
+  - name: STITCH Protein - Drug
+    method: HEAD
+    url: http://stitch.embl.de/download/protein_chemical.links.v5.0/9606.protein_chemical.links.v5.0.tsv.gz
+  - name: STITCH Protein - Drug (actions)
+    method: HEAD
+    url: http://stitch.embl.de/download/actions.v5.0/9606.actions.v5.0.tsv.gz
+  - name: STRING Protein - Protein
+    method: HEAD
+    url: https://stringdb-static.org/download/protein.links.v11.0/9606.protein.links.v11.0.txt.gz
+  - name: STRING Protein - Protein (actions)
+    method: HEAD
+    url: https://stringdb-static.org/download/protein.actions.v11.0/9606.protein.actions.v11.0.txt.gz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
