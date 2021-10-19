@@ -44,7 +44,7 @@ sites:
     url: http://www.disgenet.org/static/disgenet_ap1/files/downloads/curated_gene_disease_associations.tsv.gz
   - name: Drugcentral
     method: HEAD
-    url: http://unmtid-shinyapps.net/download/drugcentral.dump.08262018.sql.gz
+    url: https://unmtid-shinyapps.net/download/DrugCentral/20180826/drugcentral.dump.08262018.sql.gz
   - name: GO annotations
     method: HEAD
     url: http://geneontology.org/gene-associations/goa_human.gaf.gz
