@@ -24,12 +24,18 @@ sites:
   - name: Uniprot
     method: HEAD
     url: ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping_selected.tab.gz
+    expectedStatusCodes:
+      - 350
   - name: Bgee diffexpr
     method: HEAD
     url: ftp://ftp.bgee.org/bgee_v13/download/calls/diff_expr_calls/Homo_sapiens_diffexpr-anatomy-simple.tsv.zip
+    expectedStatusCodes:
+      - 350
   - name: Bgee expr
     method: HEAD
     url: ftp://ftp.bgee.org/current/download/calls/expr_calls/Homo_sapiens_expr_simple.tsv.gz
+    expectedStatusCodes:
+      - 350
   - name: CTD
     method: HEAD
     url: http://ctdbase.org/reports/CTD_genes_pathways.tsv.gz
