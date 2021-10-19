@@ -1,7 +1,7 @@
 url: http://stitch.embl.de/download/actions.v5.0/9606.actions.v5.0.tsv.gz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-10-18T23:15:43.462Z
+status: up
+code: 200
+responseTime: 1712
+lastUpdated: 2021-10-19T13:52:14.556Z
 startTime: Fri Oct 15 2021 13:20:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
