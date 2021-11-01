@@ -94,19 +94,19 @@
     "url": "http://string-db.org/mapping_files/entrez/human.entrez_2_string.2018.tsv.gz",
     "icon": "https://favicons.githubusercontent.com/string-db.org",
     "slug": "string-mapping",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 1294,
-    "timeWeek": 648,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 436,
+    "timeDay": 949,
+    "timeWeek": 605,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2021-11-01": 0
+      "2021-11-01": 23
     }
   },
   {
