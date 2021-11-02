@@ -114,9 +114,9 @@
     "url": "ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping_selected.tab.gz",
     "icon": "https://favicons.githubusercontent.com/ftp.uniprot.org",
     "slug": "uniprot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -126,6 +126,7 @@
     "timeMonth": 3047,
     "timeYear": 3047,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-10-30": 17
     }
   },
