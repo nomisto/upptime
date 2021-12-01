@@ -1,7 +1,7 @@
 url: https://raw.githubusercontent.com/obophenotype/human-phenotype-ontology/master/hp.obo
-status: down
-code: 503
-responseTime: 12
-lastUpdated: 2021-12-01T21:25:48.644Z
+status: up
+code: 200
+responseTime: 212
+lastUpdated: 2021-12-01T21:38:07.683Z
 startTime: Tue Oct 19 2021 14:07:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
