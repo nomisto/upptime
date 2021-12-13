@@ -48,9 +48,6 @@ sites:
   - name: GO annotations
     method: HEAD
     url: http://geneontology.org/gene-associations/goa_human.gaf.gz
-  - name: HPA (unused)
-    method: HEAD
-    url: https://www.proteinatlas.org/download/rna_tissue.tsv.zip
   - name: HPO Disease - Phenotype
     method: HEAD
     url: http://purl.obolibrary.org/obo/hp/hpoa/phenotype_annotation.tab
