@@ -1,7 +1,7 @@
 url: https://unmtid-shinyapps.net/download/DrugCentral/20180826/drugcentral.dump.08262018.sql.gz
-status: up
-code: 200
-responseTime: 34
-lastUpdated: 2021-12-16T23:15:55.566Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-12-17T16:34:05.036Z
 startTime: Tue Oct 19 2021 14:07:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
