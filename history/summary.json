@@ -125,7 +125,7 @@
     "time": 3400,
     "timeDay": 1048,
     "timeWeek": 1328,
-    "timeMonth": 2365,
+    "timeMonth": 2387,
     "timeYear": 3400,
     "dailyMinutesDown": {
       "2021-12-18": 28,
@@ -188,9 +188,9 @@
     "url": "http://ctdbase.org/reports/CTD_genes_pathways.tsv.gz",
     "icon": "https://favicons.githubusercontent.com/ctdbase.org",
     "slug": "ctd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -200,6 +200,7 @@
     "timeMonth": 242,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2022-01-03": 0,
       "2021-12-22": 27,
       "2021-11-12": 20,
       "2021-11-11": 16
